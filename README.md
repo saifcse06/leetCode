@@ -11,6 +11,7 @@
 - https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/
 - https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 - https://leetcode.com/problems/shuffle-the-array/description/
+- https://leetcode.com/problems/running-sum-of-1d-array/
 
 
 #Contest weekly
