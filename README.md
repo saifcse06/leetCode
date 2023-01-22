@@ -11,3 +11,8 @@
 - https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/
 - https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 - https://leetcode.com/problems/shuffle-the-array/description/
+
+
+#Contest weekly
+- https://leetcode.com/contest/weekly-contest-329/problems/alternating-digit-sum/
+- 
