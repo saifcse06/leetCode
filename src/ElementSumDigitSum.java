@@ -2,6 +2,9 @@ public class ElementSumDigitSum {
     public static void main(String[] args) {
         System.out.println(differenceOfSum(new int[] {1,15,6,3}));
     }
+
+
+
     public static int differenceOfSum(int[] nums) {
         int elementSum = 0,digitSum = 0;
 
