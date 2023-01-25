@@ -14,6 +14,8 @@
 - https://leetcode.com/problems/running-sum-of-1d-array/
 - https://leetcode.com/problems/number-of-good-pairs/description/
 - https://leetcode.com/problems/find-the-town-judge/description/
+- https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
+- https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
 
 #Contest weekly
