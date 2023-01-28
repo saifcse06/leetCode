@@ -1,7 +1,7 @@
 ## Contact Info:
     @ MD SAIF UDDIN
     @ saifcsediu806@gmail.com
-# Below problem list from leetCode:
+# Below problem list from leetCode Easy:
 - https://leetcode.com/problems/merge-sorted-array/
 - https://leetcode.com/problems/shuffle-string/
 - https://leetcode.com/problems/single-number/
@@ -16,6 +16,8 @@
 - https://leetcode.com/problems/find-the-town-judge/description/
 - https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 - https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+- https://leetcode.com/problems/decode-xored-array/description/
+- https://leetcode.com/problems/create-target-array-in-the-given-order/description/
 
 
 #Contest weekly
