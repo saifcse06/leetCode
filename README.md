@@ -18,6 +18,8 @@
 - https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 - https://leetcode.com/problems/decode-xored-array/description/
 - https://leetcode.com/problems/create-target-array-in-the-given-order/description/
+- https://leetcode.com/problems/count-distinct-numbers-on-board/description/
+- https://leetcode.com/problems/jump-game-ii/description/
 
 
 #Contest weekly
